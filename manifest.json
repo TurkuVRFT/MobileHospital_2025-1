@@ -1,6 +1,6 @@
 {
+ "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +38,7 @@
    "sizes": "64x64"
   }
  ],
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "name": "Mobile Hospital - Turku",
- "background_color": "#FFFFFF"
+ "name": "MobileHospital"
 }
